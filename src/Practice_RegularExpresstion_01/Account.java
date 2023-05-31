@@ -1,4 +1,4 @@
-package Practice_RegularException;
+package Practice_RegularExpresstion_01;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

@@ -1,4 +1,4 @@
-package Practice_RegularException;
+package Practice_RegularExpresstion_01;
 
 public class Acount_Test {
     private static Account accountExample;
